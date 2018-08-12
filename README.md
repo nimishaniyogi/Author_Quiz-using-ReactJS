@@ -1,6 +1,6 @@
 ## Quiz application using REACT
 
-The Author Quiz is an appliction developed using REACT. It's a simple game that displays the image of a famous author and list of books by those author. The player has to select from a list the name of a book written by that author. If the player chooses an incorrect answer a red highlight is displayed. If the player chooses a correct answer a green highlight is displayed and the continue button appears. Clicking continue causes a fresh game to be loaded.
+The Author Quiz is an application developed using REACT. It's a simple game that displays the image of a famous author and list of books by those author. The player has to select from a list the name of a book written by that author. If the player chooses an incorrect answer a red highlight is displayed. If the player chooses a correct answer a green highlight is displayed and the continue button appears. Clicking continue causes a fresh game to be loaded.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
